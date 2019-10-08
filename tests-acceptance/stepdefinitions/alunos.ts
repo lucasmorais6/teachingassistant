@@ -34,5 +34,4 @@ defineSupportCode(function ({ Given, When, Then }) {
                    (elems => expect(Promise.resolve(elems.length)).to.eventually.equal(1));
     });
 
-}) 
 })
