@@ -8,7 +8,7 @@ import { AlunoService } from './aluno.service';
 
 @NgModule({
   declarations: [
-    AppComponent,
+    AppComponent
   ],
   imports: [
     BrowserModule,
